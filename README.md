@@ -22,8 +22,8 @@ Online ADB Installer simplifies the process by automating the installation proce
 
 ## Usage
 
-1. Download the `install.bat` file from the [latest release](https://github.com/celalizolu/online-adb-installer/releases/latest).
-2. Double-click the `install.bat` file to run the script.
+1. Download the source code from the [latest release](https://github.com/celalizolu/online-adb-installer/releases/latest) and extract it to a directory on your computer.
+2. Right-click the `install.bat` file and select "Run as administrator" to run the script.
 3. Follow the instructions provided by the script.
 
 The script will ask for your permission to run with administrative privileges before proceeding. This is necessary to install the USB drivers and add ADB and Fastboot to your system path.
